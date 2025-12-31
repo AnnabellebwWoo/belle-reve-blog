@@ -1,6 +1,6 @@
 ---
 title: How I Built This Blog
-excerpt: All the technical details and what I learned.
+excerpt: All the technical details and what I learned
 categories: [STEM]
 publishedDate: "2025-12-22T12:00:00"
 tags: Next.js, React, TypeScript, CSS, Vercel, MD, ESLint, Prettier
@@ -137,7 +137,7 @@ I originally planned on hosting on GitHub Pages since it was the first free opti
 
 At first, I fell into the trap of trying to master all the technologies before starting. Getting lost in the tutorial black hole of YouTube completely stalled my progress. Eventually I had to dive into the deep end and get started, no matter how uncomfortable I felt. I later learned that the scarier it felt, the more I learned. Whenever I got stuck, I broke problems into solvable pieces, consulted Stack Overflow, and asked for help. Some problems were tedious, like migrating old posts while others were complex, like designing a system to convert Markdown into a consistent visual template.
 
-The largest challenge I faced was configuring the Markdown parser. I used remark parse, which is common among blogs. It parses through Markdown files into a structured format that my components can render. With every new blog post, came new features I wanted to implement and edge cases to deal with. But going through the routine of reading documentation, implementing, debugging, and testing became second nature. *wax on, wax off*.
+The largest challenge I faced was configuring the Markdown parser. I used remark parse, which is common among blogs. It parses through Markdown files into a structured format that my components can render. With every new blog post, came new features I wanted to implement and edge cases to deal with. But going through the motions of reading documentation, implementing, debugging, and testing became second nature. *wax on, wax off*.
 
 # 9. What's Next
 
