@@ -9,7 +9,7 @@ thumbnail: "/images/lignin-sun.png"
 
 Protection against solar ultraviolet (UV) radiation is critical to minimize the biological damage to the skin. Irradiation causes short-term damage like sunburns and long-term issues of skin cancers and accelerating skin aging.
 
-Inorganic UV-blocking ingredients like titanium dioxide (TiO2) and zinc oxide (ZnO) reflect UV rays while organic synthetic UV-blocking ingredients like avobenzone and octyl methoxycinnamate absorb UV light. Inorganic sunscreens are preferred over organic UV blockers because of concerns around skin irritation, photostability, and environmental impact. Many natural polyphenol extracts have been investigated as alternative UV blockers but most have small molecules with low purity, poor photostability, and are only partial spectrum sun blockers.
+Inorganic UV-blocking ingredients like titanium dioxide (TiO2) and zinc oxide (ZnO) reflect UV rays while organic synthetic UV-blocking ingredients like avobenzone and octyl methoxycinnamate absorb UV light. Inorganic UV blockers are preferred over organic ones because of concerns around skin irritation, photostability, and environmental impact. Many natural polyphenol extracts have been investigated as alternative UV blockers but most have small molecules with low purity, poor photostability, and are only partial spectrum sun blockers.
 
 Lignin is a naturally abundant biopolymer often produced as a waste byproduct from industrial and agricultural processing. This powerful material can absorb a broad spectrum of UV light (both UVA and UVB, 250–400 nm). With its sun-blocking attributes, there is a great amount of interest in exploring its applications in cosmetics, packaging and transparent films, and microorganism protection.
 
@@ -43,7 +43,7 @@ The sunscreens retained its sun protection effectiveness and colour even after 3
 
 A novel two-step approach was created to brighten the ingredient while maintaining its high UV absorption property. Previous methods were developed, however, they decreased ability to absorb UV. The innovative method works by first fractionation followed by bleaching. Organosolv lignin was fractionated with methanol and then bleached with NaOCl under mild conditions. The resulting lignin-based cream enhanced the SPF value, while also being highly homogeneous, stable, and more biocompatible.
 
-Indeed, lignin is a truly natural sun-blocker. However, there is still a lot of work to be done before it's in the hands of consumers. Particularly around scaling, regulation, and long-term testing — but the progress so far is exciting. Consumers who want eco-friendly, sustainable, and safe skincare have a lot to look forward to.
+Indeed, lignin is a truly natural sun-blocker. However, there is still a lot of work to be done before it's in the hands of consumers. Particularly around scaling, regulation, and long-term testing — but the progress so far is exciting. Consumers who want eco-friendly, sustainable, and safe skincare have a lot to look forward to!
 
 # Sources
 
