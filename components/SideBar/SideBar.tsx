@@ -28,15 +28,15 @@ const Sidebar = ({ recentPosts, isOpen = false, onClose, className }: SidebarPro
       <section>
         <h3>Featured Post</h3>
         <ul>
-          <Link href="/blog/post/travel-diary-boston-ma">
+          <Link href="/blog/post/how-i-built-this-blog">
             <Image
-              src="/images/boston-cover.jpg"
+              src="/images/vscode-ss.jpg"
               width={250}
               height={250}
-              alt="boston-cover"
+              alt="vscode"
               className={styles.featuredImage}
             />
-            <h2>Travel Diary: Boston, MA</h2>
+            <h2>How I Built This Blog</h2>
             <h4>Read more...</h4>
           </Link>
         </ul>

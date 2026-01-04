@@ -6,10 +6,12 @@ const Footer = () => {
   return (
     <div className={styles.wrapper}>
       <ul className={styles.Footer}>
-        
         <li>
           <h1>Categories</h1>
           <ul className={styles.subList}>
+            <li>
+              <Link href="/blog/category/STEM">STEM</Link>
+            </li>
             <li>
               <Link href="/blog/category/beauty">Beauty</Link>
             </li>
@@ -18,9 +20,6 @@ const Footer = () => {
             </li>
             <li>
               <Link href="/blog/category/favourites">Favourites</Link>
-            </li>
-            <li>
-              <Link href="/blog/category/STEM">STEM</Link>
             </li>
             <li>
               <Link href="/blog/category/opinion">Opinion</Link>

@@ -34,15 +34,15 @@ export default function SideBarOverlay({
 
       <section>
         <h3>Featured Post</h3>
-        <Link href="/blog/post/travel-diary-boston-ma" onClick={onClose}>
+        <Link href="/blog/post/how-i-built-this-blog" onClick={onClose}>
           <Image
-            src="/images/boston-cover.jpg"
+            src="/images/vscode-ss.jpg"
             width={250}
             height={250}
-            alt="boston cover"
+            alt="vscode"
             className={styles.featured}
           />
-          <h2>Travel Diary: Boston, MA</h2>
+          <h2>How I Built This Blog</h2>
           <h4>Read more...</h4>
         </Link>
       </section>
