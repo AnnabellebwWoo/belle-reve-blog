@@ -13,7 +13,7 @@ This was my first completely solo trip, and reflecting on it, my favourite part 
 
 It started with a red-eye from Toronto to San Francisco. The flight was pretty empty, and I even got a row to myself. Once I touched down, I commuted to campus and even took this fancy shuttle bus decked out in Stanford branding. My first introduction to the Bay Area was the sheer number of people coding on the Caltrain. 
 
-![on the way](/images/otw.jpg)
+![on the way](/images/otw.JPG)
 
 ![stanford shuttle](/images/fancy-bus.jpg)
 
