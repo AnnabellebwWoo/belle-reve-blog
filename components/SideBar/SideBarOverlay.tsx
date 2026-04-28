@@ -22,14 +22,30 @@ export default function SideBarOverlay({
       </button>
 
       <nav className={styles.links}>
-        <Link href="/" onClick={onClose}>Home</Link>
-        <Link href="/blog/category/beauty" onClick={onClose}>Beauty</Link>
-        <Link href="/blog/category/clothing" onClick={onClose}>Clothing</Link>
-        <Link href="/blog/category/favourites" onClick={onClose}>Favourites</Link>
-        <Link href="/blog/category/STEM" onClick={onClose}>STEM</Link>
-        <Link href="/blog/category/opinion" onClick={onClose}>Opinion</Link>
-        <Link href="/blog/category/misc" onClick={onClose}>Misc</Link>
-        <Link href="/about-me" onClick={onClose}>About Me</Link>
+        <Link href="/" onClick={onClose}>
+          Home
+        </Link>
+        <Link href="/blog/category/STEM" onClick={onClose}>
+          STEM
+        </Link>
+        <Link href="/blog/category/beauty" onClick={onClose}>
+          Beauty
+        </Link>
+        <Link href="/blog/category/clothing" onClick={onClose}>
+          Clothing
+        </Link>
+        <Link href="/blog/category/favourites" onClick={onClose}>
+          Favourites
+        </Link>
+        <Link href="/blog/category/opinion" onClick={onClose}>
+          Opinion
+        </Link>
+        <Link href="/blog/category/misc" onClick={onClose}>
+          Misc
+        </Link>
+        <Link href="/about-me" onClick={onClose}>
+          About Me
+        </Link>
       </nav>
 
       <section>
