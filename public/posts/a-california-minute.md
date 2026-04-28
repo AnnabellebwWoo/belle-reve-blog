@@ -39,7 +39,7 @@ Sunday had no commitments, so I was free to explore by myself. I grabbed an appl
 
 ![park](/images/park.jpg)
 
-It was a bit windy, but the weather was perfect regardless. People could be seen playing soccer, flying kites, and windsurfing. The walk had perfect views of the beach and the GGB. I couldn't even believe I was there in that moment. I kept thinking about how grateful I was for all the opportunities I’ve been given and for the support of my family, friends, and mentors that allowed me to be in the place in time. 
+It was a bit windy, but the weather was perfect regardless. People could be seen playing soccer, flying kites, and windsurfing. The walk had perfect views of the beach and the GGB. I couldn't even believe I was there in that moment. I kept thinking about how grateful I was for all the opportunities I’ve been given and for the support of my family, friends, and mentors that allowed me to be in that place in time. 
 
 I didn't even realize it, but the Palace of Fine Arts was just south of the beach. I ate my packed tangerines and plant-based summer rolls, then headed over to the dome peeking out. 
 
