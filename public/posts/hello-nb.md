@@ -1,7 +1,7 @@
 ---
 title: hello, New Brunswick
 categories: [misc]
-publishedDate: "2026-05-07T12:00:00"
+publishedDate: "2026-05-14T12:00:00"
 excerpt: Moving to NB with fun stops along the way
 tags: travel, Canada, New Brunswick
 thumbnail: "/images/edited.png"

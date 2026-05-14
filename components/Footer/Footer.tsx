@@ -48,6 +48,9 @@ const Footer = () => {
                 Spotify
               </a>
             </li>
+            <li>
+              <a href="https://github.com/AnnabellebwWoo">GitHub</a>
+            </li>
           </ul>
         </li>
       </ul>
