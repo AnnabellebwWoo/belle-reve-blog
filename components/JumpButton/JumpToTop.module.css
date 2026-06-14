@@ -1,0 +1,44 @@
+.scrollTopBtn {
+  position: fixed;
+  bottom: 2rem;
+  right: 2.5rem;
+  z-index: 1000;
+  background-color: #f9f9f9;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.3s ease, transform 0.2s ease;
+}
+
+.scrollTopBtn:hover {
+  background-color: #e0e0e0;
+  transform: translateY(-3px);
+}
+
+@media (max-width: 768px) {
+  .scrollTopBtn {
+    bottom: 1rem;
+    right: 1rem;
+    width: 40px;
+    height: 40px;
+    font-size: 1.25rem;
+  }
+}
+
+.chevronIcon {
+  width: 20px;
+  height: 20px;
+  color: #333; 
+  transition: transform 0.2s ease;
+}
+
+.scrollTopBtn:hover .chevronIcon {
+  transform: translateY(-2px);
+}

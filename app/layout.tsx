@@ -4,6 +4,7 @@ import "./globals.css";
 import Header from "../components/Header/Header";
 import Footer from "../components/Footer/Footer";
 import { Analytics } from "@vercel/analytics/next";
+import JumpToTop from "../components/JumpButton/JumpToTop";
 
 const anticDidone = Antic_Didone({
   subsets: ["latin"],
@@ -38,6 +39,7 @@ export default function RootLayout({
       <body>
         <Header></Header>
         <main>{children}</main>
+        <JumpToTop></JumpToTop>
         <Footer></Footer>
         <Analytics />
       </body>
