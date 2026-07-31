@@ -58,7 +58,3 @@ I drove to the Quaco Head Lighthouse and there's even a small hike that leads to
 The farmers market was my next spot but it was pretty lackluster in all honesty. I didn't find anything worth taking home and went back to Shipyard to get another coffee. 
 
 On the way back, I visited Fredericton to return a powder at Sephora and stopped at [Out'Fits](https://maps.app.goo.gl/16bGe8mDkGNRXd8A8), but also didn't find anything good.
-
---
-
-I thought I would find some inner peace after this weekend. And don't get me wrong, it was beautiful and I'm glad I visited. But I feel a vast emptiness. I'll give myself grace though, because I know this always blows over. I just need to keep my head down and keep working, and in a couple days or weeks I'll feel better. 
