@@ -54,6 +54,7 @@ const Footer = () => {
           </ul>
         </li>
       </ul>
+      <p className={styles.copyright}>Copyright © 2026 Belle Reve.</p>
     </div>
   );
 };

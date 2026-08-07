@@ -31,3 +31,11 @@
   flex-direction: column;
   line-height: 2.5em;
 }
+
+.copyright {
+  color: #c3c3c3;
+  text-align: center;
+  font-size: 0.9em;
+  padding: 1em 0 2em;
+  margin: 0;
+}
