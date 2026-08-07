@@ -10,17 +10,19 @@
 }
 
 .image {
-  flex: 1;
-  max-width: 100%;
+  flex: 0 1 400px;
+  width: 100%;
+  max-width: 400px;
   height: auto;
   border-radius: 30px;
+  object-fit: cover;
 }
 
 .text {
   flex: 1;
   color: grey;
   font-family: "Playfair Display", Georgia, "Times New Roman", Times, serif;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 .about p {

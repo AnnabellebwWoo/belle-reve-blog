@@ -9,10 +9,12 @@ const AboutPage = () => {
       <Image
         src="/images/annabelle-woo.jpg"
         alt="Annabelle Woo"
-        width={300}
-        height={400}
+        width={3507}
+        height={4676}
+        sizes="(max-width: 768px) 90vw, 350px"
         className={styles.image}
-      ></Image>
+        priority
+      />
       <div className={styles.text}>
         <p>
           Belle Reve is a blog created by Annabelle Woo. Magazines and websites
