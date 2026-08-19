@@ -17,7 +17,7 @@ So I decided to build it myself. Even though I wasn’t in computer science and 
 
 I owe a big part of this final product to my brother. He advised, debugged, and encouraged me throughout the process.
 
-The final repo can be found [here](https://github.com/AnnabellebwWoo/AnnabellebwWoo.github.io).
+The final repo can be found [here](https://github.com/AnnabellebwWoo/belle-reve-blog).
 
 This post walks through how I designed and built the new version, and what I learned along the way. I split it up into nine sections.
 
@@ -143,6 +143,6 @@ The largest challenge I faced was configuring the Markdown parser. I used remark
 
 As I continue creating content, I'll implement more STEM topics. My interests have evolved since high school and as I continue to post about beauty and lifestyle, I'll also discuss materials science and engineering.
 
-Future work includes additional features like a search bar, pagination, dark mode, jump to the top button, and more. Feel free to view the issues and which one I'm currently working on at the [repo](https://github.com/AnnabellebwWoo/AnnabellebwWoo.github.io).
+Future work includes additional features like a search bar, pagination, dark mode, jump to the top button, and more. Feel free to view the issues and which one I'm currently working on at the [repo](https://github.com/AnnabellebwWoo/belle-reve-blog).
 
 Feedback, suggestions, questions, and comments are always welcome and can be directed to the [feedback form](https://forms.gle/8izwQaCbUymjEjbcA). Or feel free to message me on [instagram](https://www.instagram.com/bellereveblog/) or [email](mailto:bellereveblog@gmail.com)
