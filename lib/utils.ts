@@ -93,3 +93,21 @@ export async function getRecentPosts(count = 2): Promise<BlogPostProps[]> {
 
   return sorted.slice(0, count);
 }
+
+export async function getAllCategories(): Promise<string[]> {
+  const posts = await getAllPosts();
+  
+    const categoriesSet = new Set<string>();
+  
+  posts.forEach((post) => {
+    if (Array.isArray(post.categories)) {
+      post.categories.forEach((cat) => categoriesSet.add(cat.trim()));
+    } else if (typeof post.categories === "string") {
+      (post.categories as string)
+        .split(",")
+        .forEach((cat) => categoriesSet.add(cat.trim()));
+    }
+  });
+
+  return Array.from(categoriesSet);
+}

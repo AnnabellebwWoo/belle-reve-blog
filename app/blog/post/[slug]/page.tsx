@@ -7,6 +7,7 @@ import {
 import { parseMarkdownToSections } from "../../../../lib/parseMarkdown";
 import type { Section } from "../../../../lib/types";
 
+
 export default async function BlogPost({
   params,
 }: {
